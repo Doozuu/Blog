@@ -18,3 +18,26 @@ body {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: rgb(217, 217, 217);
+}
+
+h4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+li {
+  display: inline;
+  align-items: flex-start;
+  margin-left: 15px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
